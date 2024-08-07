@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
 
 1. **Clone Repository**: Clone the repository to your local machine.
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/NguyenHuy190303/Housing-Price-Prediction
     ```
 
 2. **Install Dependencies**: Install the required libraries.
@@ -55,10 +55,6 @@ To get started with the project, follow these steps:
     python scripts/deploy_model.py
     ```
 
-## References
-
-- **Data Information**: [Link to data documentation, if available]
-- **Usage Guide**: [Link to detailed usage guide, if available]
 
 ## Contact
 
