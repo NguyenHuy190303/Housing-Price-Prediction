@@ -58,4 +58,4 @@ To get started with the project, follow these steps:
 
 ## Contact
 
-For any questions, please contact the development team at [email or other contact information].
+For any questions, please contact me.
